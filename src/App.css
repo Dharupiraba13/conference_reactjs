@@ -1,0 +1,28 @@
+body {
+    margin: 0
+}
+
+.App {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    font-size: 20px;
+
+}
+
+a {
+    float: right;
+    color: antiquewhite;
+    text-align: center;
+    padding: 18px 18px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    color: orange;
+}
+
+input[type="submit"] {
+    padding: 15px 30px;
+}
