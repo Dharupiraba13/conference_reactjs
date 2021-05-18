@@ -1,5 +1,9 @@
 # conference_reactjs
-A simple space conference website designed using ReactJS.
+A simple space conference website designed using ReactJS.<br/>
+The <b> src</b> folder contains the reacter router code.
+
+
+
 
 # Getting Started with Create React App
 
